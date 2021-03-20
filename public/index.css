@@ -1,0 +1,41 @@
+
+body {
+    background-color: coral;
+} 
+
+#quote-box {
+    text-align: center;
+    margin: 200px;
+
+}
+
+.text-auto{
+    background-color: white;
+    display: inline-block;
+    width: 50%;
+    padding: 25px;
+
+}
+
+#author {
+    text-align: right;
+    margin-right: 16px;
+}
+
+.textItem{
+ font-size: 32px;
+ 
+}
+
+ #new-quote {
+     padding: 0.5rem;
+     margin-left: 10rem;
+     margin-top: 2rem;
+     margin-bottom: 2rem;
+ }
+ .tweetQuote {
+     padding: 0.5rem;
+     margin-right: 10rem;
+     margin-top: 2rem;
+     margin-bottom: 2rem;
+ }
