@@ -20,8 +20,10 @@ function App(){
         }catch(err){
             console.error(err);
         }
+        
 
 }
+window.onload = handleClick;
 
     return <div id="quote-box">
         <div className="text-auto">
@@ -32,5 +34,6 @@ function App(){
         </div>
     </div>
 }
+
 
 export default App;
